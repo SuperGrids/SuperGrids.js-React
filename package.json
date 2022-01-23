@@ -1,6 +1,6 @@
 {
 	"name": "supergrids.js-react",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A collection of React flavoured helper components, hooks, etc.",
 	"main": "index.js",
 	"scripts": {
